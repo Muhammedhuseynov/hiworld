@@ -1,5 +1,5 @@
 import datetime
 
 dt = datetime.datetime.now()
-x = dt.strftime('%D %a')
-print(f'Hi World\n{x}')
+x = dt.strftime('%D %A')
+print(f'ok World \n I Came Back \n{x}')
